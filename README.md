@@ -1,6 +1,6 @@
 # Mahmood Shah Auto Recycler: Parts Inventory & Sales
 
-> **Client project** · Built by [Rahimi Tech Solution](https://github.com/rahimiabdulrahmanab) · The source code is private to the client.
+> **Client project** · Built by [Rahimi Tech Solution](https://github.com/AbdulRahmanRahimi) · The source code is private to the client.
 
 Shared parts inventory, sales and profit reporting for an auto recycler in Vancouver, BC. There are **four partners, one shelf and four phones.**
 
